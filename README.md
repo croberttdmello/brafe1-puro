@@ -13,10 +13,10 @@
 
 ## Features
 
-  <img src="https://img.icons8.com/metro/26/000000/html.png"> HTML5 
+HTML5 
 <br>
 
-  <img src="https://img.icons8.com/windows/32/000000/css3-logo.png"> CSS3
+CSS3
 <br>
 
 ## License
