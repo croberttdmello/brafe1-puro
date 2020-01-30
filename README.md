@@ -13,10 +13,10 @@
 
 ## Features
 
-  <img src="./files-readme/html5.png" alt="Icon HTML5" width="10"> HTML5 
+  <img src="https://img.icons8.com/metro/26/000000/html.png"> HTML5 
 <br>
 
-   <img src="./files-readme/css3.png" alt="Icon CSS3" width="10"> CSS3
+  <img src="https://img.icons8.com/windows/32/000000/css3-logo.png"> CSS3
 <br>
 
 ## License
