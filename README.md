@@ -3,7 +3,7 @@
   Brafé 1 - Puro
 </h1>
 
-<p align="center">Brafé 1 - Site responsivo construído com HTML5 e CSS3 puro, sem uso de flexbox, técnica de grid ou framework </p>
+<p align="center">Brafé 1 - Layout responsivo construído com HTML5 e CSS3, sem uso de flexbox, técnica de grid ou framework</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
